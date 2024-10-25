@@ -1,0 +1,11 @@
+{
+    "id": "server_1",
+    "type": "server",
+    "name": "prod-server-01",
+    "ip_address": "192.168.1.1",
+    "operating_system": "Linux",
+    "dependencies": [
+      "app_1",
+      "network_2"
+    ]
+}

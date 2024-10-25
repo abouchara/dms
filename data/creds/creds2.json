@@ -1,0 +1,27 @@
+[
+    {
+        "id": "creds_1",
+        "type": "credentials",
+        "name": "service account #1",
+        "desc": "svc account with RW access to repo_1",
+        "tags": [""],
+        "tmp_tags": [""],
+        "used_in": [
+        "app_1",
+        "database_1",
+        "server_1"
+        ]
+    },
+    {
+        "id": "creds_2",
+        "type": "credentials",
+        "name": "service account #2",
+        "desc": "svc account with RO access to repo_3",
+        "tags": [""],
+        "tmp_tags": [""],
+        "used_in": [
+        "app_3",
+        "repo_3"
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+      "app_1": ["server_1", "library_1"],
+      "library_1": []
+    }
+}

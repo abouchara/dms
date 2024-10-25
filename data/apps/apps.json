@@ -1,0 +1,11 @@
+{
+    "id": "app_1",
+    "type": "application",
+    "name": "payment-service",
+    "version": "1.0.0",
+    "dependencies": [
+      "library_1",
+      "database_1",
+      "server_1"
+    ]
+}
